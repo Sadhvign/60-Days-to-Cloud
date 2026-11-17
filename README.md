@@ -36,9 +36,9 @@ After: Agents monitor live deployments. When a control threshold is breached, th
 My key takeaway
 The biggest change is the shape of the process. The old SDLC is a straight line, and the AI-native one is a loop. Production feedback flows straight back into planning.
 Humans aren’t removed. Their role moves from doing every step to:
-defining intent
+#defining intent
 
-encoding standards and guardrails
+#encoding standards and guardrails
 
-reviewing what’s critical, regulated, or high-risk
+#reviewing what’s critical, regulated, or high-risk
 
